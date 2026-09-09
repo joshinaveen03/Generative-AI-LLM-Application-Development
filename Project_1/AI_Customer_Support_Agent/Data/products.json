@@ -1,0 +1,34 @@
+[
+  {
+    "product_id": "P201",
+    "name": "Smart Watch",
+    "category": "Wearables",
+    "price": 5999,
+    "stock": 15,
+    "description": "Fitness smart watch with heart-rate monitoring and Bluetooth connectivity."
+  },
+  {
+    "product_id": "P202",
+    "name": "Wireless Earbuds",
+    "category": "Audio",
+    "price": 2999,
+    "stock": 25,
+    "description": "Compact wireless earbuds with noise reduction and long battery life."
+  },
+  {
+    "product_id": "P203",
+    "name": "Laptop Stand",
+    "category": "Computer Accessories",
+    "price": 1799,
+    "stock": 10,
+    "description": "Adjustable aluminum laptop stand for comfortable desk use."
+  },
+  {
+    "product_id": "P204",
+    "name": "Webcam",
+    "category": "Computer Accessories",
+    "price": 2499,
+    "stock": 0,
+    "description": "Full HD webcam with built-in microphone for video conferencing."
+  }
+]

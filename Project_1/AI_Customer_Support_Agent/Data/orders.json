@@ -1,0 +1,29 @@
+[
+  {
+    "order_id": "ORD-2001",
+    "customer": "Ananya",
+    "product_id": "P201",
+    "product_name": "Smart Watch",
+    "status": "Shipped",
+    "estimated_delivery": "2026-09-09",
+    "price": 5999
+  },
+  {
+    "order_id": "ORD-2002",
+    "customer": "Vikram",
+    "product_id": "P202",
+    "product_name": "Wireless Earbuds",
+    "status": "Processing",
+    "estimated_delivery": "2026-09-11",
+    "price": 2999
+  },
+  {
+    "order_id": "ORD-2003",
+    "customer": "Sneha",
+    "product_id": "P203",
+    "product_name": "Laptop Stand",
+    "status": "Delivered",
+    "estimated_delivery": "2026-09-05",
+    "price": 1799
+  }
+]
